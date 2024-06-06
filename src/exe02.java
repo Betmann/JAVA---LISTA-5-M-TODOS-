@@ -90,7 +90,7 @@ class EntradaSaida {
 
     public void mostrarFolhaPagamento(double salarioBruto, double descontoINSS, double descontoIRPF, double descontoPlanoSaude, double acrescimoHorasExtras, double salarioLiquido) {
 
-        System.out.println("\nFolha de Pagamento:");
+        System.out.println("\nFolha do Pagamento:");
 
         System.out.println("Salário Bruto: R$" + salarioBruto);
 
